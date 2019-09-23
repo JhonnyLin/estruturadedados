@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568906869 source:c:\users\jlin\desktop\tp4\main.cpp
+	<iostream>
+	"Fila.h"
+	<stdlib.h>
+
+1568907318 c:\users\jlin\desktop\tp4\fila.h
+
